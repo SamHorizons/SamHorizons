@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align='center'>🔭 Bem Vindos! 👋</h1>
+<h2 align='center'>🌌Descobrindo novos horizontes a cada dia!🌌</h2>
+<br>
+<h2 align='center'>Habilidades e Conhecimentos</h2>
+<p align="center"> 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,git,linux,docker,php,laravel,aws" />
+  </a>
+</p>
 
-<!--
-**samhorizons/samhorizons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align='center'>Redes</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/samhorizons/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://moon-svg.minung.dev">
+    <img src="https://moon-svg.minung.dev/moon.svg?theme=ray" alt="moon.svg" />
+  </a>
+</p>
